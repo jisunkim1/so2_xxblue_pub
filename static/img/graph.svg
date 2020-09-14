@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="39px" viewBox="0 0 30 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>1F1764F2-F893-49C6-9E93-A4E67907A6C3</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Detail_list-/-1_red" transform="translate(-55.000000, -666.000000)">
+            <g id="Group-7" transform="translate(55.000000, 667.000000)">
+                <g id="Group" transform="translate(14.338927, 5.703057) rotate(-5.000000) translate(-14.338927, -5.703057) translate(0.338927, 1.203057)" stroke="#FFFFFF" stroke-width="2">
+                    <polyline id="Path-3" points="2.33227724e-11 9 14 7.04858394e-12 19 7 27.2940366 1.1630775"></polyline>
+                    <polyline id="Path-5" points="22 0 28 0.875 26.2857143 7"></polyline>
+                </g>
+                <path d="M0,26 L6,26 L6,38 L0,38 L0,26 Z M22,20 L28,20 L28,38 L22,38 L22,20 Z M11,14 L17,14 L17,38 L11,38 L11,14 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

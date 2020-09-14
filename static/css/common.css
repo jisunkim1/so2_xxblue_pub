@@ -1,0 +1,18 @@
+body,
+html {
+    font-family: "Roboto", "Noto Sans KR", sans-serif;
+    font-size: 14px;
+    word-break: keep-all;
+}
+
+.container {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input {
+    outline: 0;
+}
