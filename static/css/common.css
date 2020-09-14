@@ -6,7 +6,7 @@ html {
 }
 
 .container {
-    width: 100%;
+    max-width: 980px;
     padding-right: 0;
     padding-left: 0;
     margin-right: auto;
@@ -15,4 +15,13 @@ html {
 
 input {
     outline: 0;
+}
+
+.contents {
+    position: relative;
+    z-index: 500;
+}
+
+img {
+    max-width: 100%;
 }
